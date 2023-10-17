@@ -32,4 +32,4 @@ Screenshots:
 
 Deployed URL:  https://challenge-11-note-ba3c6576c9f9.herokuapp.com/
 
-Github repo:  https://github.com/EBOX26/Note-Taker.gits
+Github repo:  https://github.com/EBOX26/Note-Taker.git
