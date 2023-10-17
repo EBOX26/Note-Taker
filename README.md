@@ -26,6 +26,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Mock-Up
 
 Screenshots:
+![image](https://github.com/EBOX26/Note-Taker/assets/139289311/61b28532-12d0-493a-8da2-69969bd28b2b)
+![image](https://github.com/EBOX26/Note-Taker/assets/139289311/92e4bd31-75f1-489d-a826-45c0489a9904)
+
 
 Deployed URL:
 
