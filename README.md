@@ -30,6 +30,6 @@ Screenshots:
 ![image](https://github.com/EBOX26/Note-Taker/assets/139289311/92e4bd31-75f1-489d-a826-45c0489a9904)
 
 
-Deployed URL:
+Deployed URL:  https://challenge-11-note-ba3c6576c9f9.herokuapp.com/
 
 Github repo:  https://github.com/EBOX26/Note-Taker.gits
